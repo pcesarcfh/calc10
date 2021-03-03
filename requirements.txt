@@ -1,0 +1,9 @@
+atomicwrites
+attrs
+coverage
+more-itertools
+pluggy
+py
+pytest
+pytest-cov
+six
