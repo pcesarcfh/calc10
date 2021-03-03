@@ -1,2 +1,2 @@
 def soma(a,b):
-  return 1
+  return a + b
