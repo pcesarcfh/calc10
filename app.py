@@ -1,5 +1,5 @@
 def soma(a,b):
   return a + b
 
-def subt():
+def subt(a,b):
   return 0
